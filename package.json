@@ -26,7 +26,7 @@
     "find-or-create": "^2.0.0",
     "helmet": "1.1.0",
     "markdown": "0.5.0",
-    "mongodb": "2.1.10",
+    "mongodb": "3.1.13",
     "mongoose": "5.7.6",
     "morgan": "^1.9.1",
     "multer": "^0.1.8",
